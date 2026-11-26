@@ -1,1 +1,0 @@
-https://github.com/runyou91/posmotri-v-okno-fd
